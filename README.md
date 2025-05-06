@@ -30,8 +30,8 @@ Ce projet est une application Python interactive basée sur une interface graphi
 
 1. Clonez ce dépôt :
    ```bash
-   git clone https://github.com/PitHagore23/projet-evasion.git
-   cd projet-evasion
+   git clone https://github.com/PitHagore23/Computer_Vision_Escape_Game.git
+   cd Computer_Vision_Escape_Game
    ```
 
 2. Installez les dépendances :
